@@ -1,1 +1,2 @@
-# Card-Game
+# Card Game
+The game is a 2 player card game. We start with a deck of cards (52 cards) and we deal out those cards between the 2 players. Each player gets half the deck. On each turn of the game, both players turn over their top most card and they compare the value of those cards. The player with the higher valued card takes both cards and puts them to the side in the scoring pile. They keep doing this until they get through their stacks of cards. And at the end of the game the player who collected the most cards wins.# Card-Game
